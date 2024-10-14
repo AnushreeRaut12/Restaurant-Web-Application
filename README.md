@@ -1,5 +1,8 @@
-# Restaurant-Web-Application
-This is my simple Restaurant web application which demostrate my abilities to create visually appealing websites.
+# Restaurant-website-design-html-css-Javascript
+Restaurant website design html css &amp; Javascript
 
-UI : 
-![Screenshot from 2024-10-15 00-18-38](https://github.com/user-attachments/assets/6de11034-20dc-48e8-b905-de69f8261fd4)
+using html css and javascript i make a restaurant website 
+
+in this i use javascript to change the image
+
+Full video on youtube you make like the video 
